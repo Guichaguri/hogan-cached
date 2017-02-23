@@ -1,6 +1,6 @@
 {
   "name": "hogan-cached",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Express view engine that renders Mustache with Hogan.js and caches compiled templates for more speed",
   "main": "index.js",
   "scripts": {
